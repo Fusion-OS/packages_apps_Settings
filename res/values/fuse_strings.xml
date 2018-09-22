@@ -18,4 +18,7 @@
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="about_device_name">Device</string>
 
+    <!-- Density category -->
+    <string name="density_category">Density options</string>
+    
 </resources>
