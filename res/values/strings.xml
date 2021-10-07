@@ -12310,4 +12310,8 @@
 
     <!-- Warning message when we try to dock an app not supporting multiple instances split into multiple sides [CHAR LIMIT=NONE] -->
     <string name="dock_multi_instances_not_supported_text">"This app can only be opened in 1 window"</string>
+    
+    <!-- Fusion Version -->
+    <string name="fuse_version">FusionOS version</string>
+
 </resources>
